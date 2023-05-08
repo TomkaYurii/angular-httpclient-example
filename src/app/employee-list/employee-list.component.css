@@ -1,0 +1,20 @@
+table, th, td {
+    border:1px solid rgb(250, 236, 189);
+    margin:2px;
+
+}
+
+th{
+    background-color: rgb(208, 159, 223);
+}
+
+td{
+    background-color: rgb(192, 216, 236);
+}
+
+.btn-btn-primary button:hover {
+    color: #2c3a41;
+    background-color: #e6e6e6;
+    left: .1em;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
