@@ -11,9 +11,7 @@ export class EmployeeCreateComponent implements OnInit {
   @Input() employeeDetails = { name: '', email: '', phone: 0};
   constructor(public restApi: RestApiService, public router: Router){}
 
-  ngOnInit(): void {
-    
-  }
+  ngOnInit(): void {}
 
   addEmployee (dataEmployee: any){
     this.restApi.createEmployee(this.employeeDetails).subscribe((data:{}) => {
