@@ -10,19 +10,7 @@
       "id": 2,
       "name": "Black Widow",
       "email": "black.widow@gmail.com",
-      "phone": "111-222-333-4444"
-    },
-    {
-      "name": "Yuriy Tomka",
-      "email": "tomka.yuriy@gmail.com",
-      "phone": "0957692191",
-      "id": 3
-    },
-    {
-      "name": "Tomka Yurii",
-      "email": "tomka.yuriy@gmail.com",
-      "phone": "325235235",
-      "id": 4
+      "phone": "111-222-333-1111"
     }
   ]
 }
